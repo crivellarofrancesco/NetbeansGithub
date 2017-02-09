@@ -10,7 +10,6 @@ package pacchettoRubrica;
  * @author FSEVERI\crivellaro3452
  */
 public class Voce {
-    private String nome;
-    private String nTel;
+
     
 }
